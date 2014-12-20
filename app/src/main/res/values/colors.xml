@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tabIndicatorColor">@color/appcian</color>
+    <color name="tabDividerColor">@color/white</color>
+    <color name="tabTextColor">@color/white</color>
+    <color name="tabBackgroundColor">@color/actionbarcolor</color>
+    <color name="viewpagerBackground">@color/white</color>
+
+
+
+    <color name="actionbarcolor">@color/darkblue</color>
+    <color name="invisible">#00ffffff</color>
+
+
+
+
+
+    <!--app pallete-->
+    <color name="darkblue">#222c37</color>
+    <color name="appcian">#00cccc</color>
+    <color name="white2">#f0f0f0</color>
+
+
+    <!--app pallete-->
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="red">#ff0000</color>
+    <color name="yellow">#ffff00</color>
+    <color name="green">#00ff00</color>
+    <color name="cian">#00ffff</color>
+    <color name="magent">#ff00ff</color>
+
+</resources>

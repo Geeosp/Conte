@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Conte.iml" filepath="$PROJECT_DIR$/Conte.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/pagerslidingtabstrip/pagerslidingtabstrip.iml" filepath="$PROJECT_DIR$/libraries/pagerslidingtabstrip/pagerslidingtabstrip.iml" />
     </modules>
   </component>
 </project>
