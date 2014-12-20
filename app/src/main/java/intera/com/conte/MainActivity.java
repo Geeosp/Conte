@@ -48,6 +48,7 @@ public class MainActivity extends FragmentActivity implements BlankFragment.OnFr
         pager.setPageMargin(pageMargin);
 
         tabs.setViewPager(pager);
+        //getActionBar().show();
 
 
     }

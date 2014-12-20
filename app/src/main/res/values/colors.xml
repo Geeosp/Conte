@@ -10,6 +10,7 @@
 
     <color name="actionbarcolor">@color/darkblue</color>
     <color name="invisible">#00ffffff</color>
+    <color name="actionbar_text">@color/white</color>
 
 
 
